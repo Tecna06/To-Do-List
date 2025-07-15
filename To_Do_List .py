@@ -1,4 +1,9 @@
-tasks = []
+# simple , mini pyhton project to help python learners ^^
+
+# At the top of a Python file, we usually write 1.libraries, imports, modules, 2.database connections, and 3. constant variables. (then other codes..)
+
+
+tasks = []  # we create an empty list to keep our tasks.
 while True:
     print("1. Add task: ")
     print("2. List the tasks:")
